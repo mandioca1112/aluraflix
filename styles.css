@@ -36,4 +36,5 @@ img{
 .categoria-vidos{
     display:flex;
     overflow-x: auto;
+    gap: 10px;
 }
