@@ -35,4 +35,5 @@ img{
 }
 .categoria-vidos{
     display:flex;
+    overflow-x: auto;
 }
