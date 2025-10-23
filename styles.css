@@ -29,9 +29,7 @@ h1{
 p{
     font-size: 20px;
 }
-img{
-    height: 200;
-}
+
 .categoria-vidos{
     display:flex;
     overflow-x: auto;
@@ -44,4 +42,5 @@ img{
 
 .categoria-vidos img{
     opacity:  0.5;
+    height: 200;
 }
