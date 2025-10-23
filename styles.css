@@ -44,3 +44,6 @@ p{
     opacity:  0.5;
     height: 200;
 }
+.categoria-vidos img:hover {
+    opacity:  1.0;
+}
